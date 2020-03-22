@@ -13,7 +13,7 @@ Password List Generator Is Created By: HackZeee (Length And Words Are Editable.)
 -------
 3- Run "attack.py" Using Python3 And Enter .txt File Name & Press Enter Then Enter UserName Of Victim And Press Enter.
 -------
-Thats It it WIll Take Time To Hack That Account Leave You phone/pc/laptop/mac/linux And Let It Be.
+Thats It. It WIll Take Time To Hack That Account Leave Your phone/pc/laptop/mac/linux And Let It Be.
 -------
 
 This Is Only For Educational Purpose and I shall not be held responsible for "any" of your actions. I hereby drag myself away from any misaction, illegal activity done by reading and following my post. If you are reading this then too, you shall be bound to the conditions mentioned above.
