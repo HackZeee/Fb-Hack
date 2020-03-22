@@ -5,6 +5,19 @@ BruteForce Script Is Created By: IAmBlackHacker (I Just Added Little Bit Of My C
 &
 Password List Generator Is Created By: HackZeee (Length And Words Are Editable.)
 
+apt install python3
+-------
+apt install git
+-------
+git clone https://github.com/HackZeee/Fb-Hack
+-------
+cd Fb-Hack
+-------
+cd passLs or python3 attack.py (if you already have password list)
+-------
+python generate.py
+-------
+
 ---How To Use---
 -------
 1- Genrate Password List (Open Folder passLs , And Run "run" File , If You Wanna Edit Length or Charactors You Can Read "readme.txt" Inside passLs Folder).
@@ -17,3 +30,4 @@ Thats It. It WIll Take Time To Hack That Account Leave Your phone/pc/laptop/mac/
 -------
 
 This Is Only For Educational Purpose and I shall not be held responsible for "any" of your actions. I hereby drag myself away from any misaction, illegal activity done by reading and following my post. If you are reading this then too, you shall be bound to the conditions mentioned above.
+
