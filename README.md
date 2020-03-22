@@ -2,6 +2,7 @@
 Facebook Bruteforce Attacker With Password List Generator
 
 BruteForce Script Is Created By: IAmBlackHacker (I Just Added Little Bit Of My Code)
+&
 Password List Generator Is Created By: HackZeee (Length And Words Are Editable.)
 
 
